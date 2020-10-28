@@ -1,3 +1,6 @@
+### This is a fork from [CTFd](https://github.com/CTFd/CTFd) with the additions of HTTPS features (Using [Certbot](https://certbot.eff.org/) docker image).
+
+
 # ![](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/logo.png?raw=true)
 
 ![CTFd MySQL CI](https://github.com/CTFd/CTFd/workflows/CTFd%20MySQL%20CI/badge.svg?branch=master)
